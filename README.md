@@ -10,7 +10,7 @@ I am currently working on web development<br>I am looking for friends to do diff
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Kittuout&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Kittuout&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kittuout&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kittuout&theme=radical&no-frame=false&no-bg=true&margin-w=4)
