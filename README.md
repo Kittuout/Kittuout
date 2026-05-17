@@ -11,10 +11,6 @@ I am currently working on web development<br>I am looking for friends to do diff
 ![](https://github-readme-stats.shion.dev/api?username=Kittuout&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Kittuout&theme=dark&hide_border=false)<br/>
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kittuout&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
