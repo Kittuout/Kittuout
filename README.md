@@ -11,8 +11,14 @@ I am currently working on web development<br>I am looking for friends to do diff
 ![](https://github-readme-stats.shion.dev/api?username=Kittuout&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Kittuout&theme=dark&hide_border=false)<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+# social media:
+<h2 align="center">🌟 Socials 🌟</h2>
+
+<p align="center">
+  <a href="https://discord.com/users/1209756806927224894">
+    <img src="https://lanyard.cnrad.dev/api/1209756806927224894?theme=dark&animated=true&hideDiscrim=true&borderRadius=30px"/>
+  </a>
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kittuout&limit=5&theme=dark&combine_all_yearly_contributions=true)
